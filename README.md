@@ -14,7 +14,7 @@ Our assignment is in 3 parts:
 
 A link to the blog on our project's visualisations:  https://medium.com/@alludedwinter/visualizations-a-regressive-gene-235a4334276f
 
-link to the slides: 
+link to the slides: [click here for pdf](flatiron_0419.pdf)
 
 
 ## Business understanding/the problem we're fixing:
